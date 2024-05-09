@@ -1,6 +1,8 @@
 # Lane Centerline Detection from Orthophotos using Transformer Networks
 
-Code for training a lane network detection model with RNGDet [1] and RNGDet++ [2] deep learning networks.
+Code for training a lane detection model with RNGDet [1] and RNGDet++ [2] deep learning networks.
+
+Detection results of Tartu, Estonia can be found in the `results` directory.
 
 This project uses code from the following open-sourced projects:
 * [RNGDetPlusPlus](https://github.com/TonyXuQAQ/RNGDetPlusPlus)
