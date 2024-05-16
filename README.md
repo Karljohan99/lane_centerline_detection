@@ -4,6 +4,8 @@ Code for training a lane detection model with RNGDet [1] and RNGDet++ [2] deep l
 
 Detection results of Tartu, Estonia can be found in the `results` directory.
 
+Link to thesis: https://comserv.cs.ut.ee/ati_thesis/datasheet.php?id=79361&language=en
+
 This project uses code from the following open-sourced projects:
 * [RNGDetPlusPlus](https://github.com/TonyXuQAQ/RNGDetPlusPlus)
 * [Sat2Graph](https://github.com/songtaohe/Sat2Graph)
